@@ -1,11 +1,13 @@
-![Image 2](https://raw.githubusercontent.com/mr-sami-x/admin-ye/main/IMG_20220410_143405_744.jpg)
+![Image 1](https://raw.githubusercontent.com/mr-sami-x/admin-ye/main/PicsArt_04-05-03.17.28~2.png)
+
 # Admin Login Website
 
 # program By Mr Sami 
 
 
-A Python Script to find admin panel of a site
-
+# A Python Script to find admin panel of a site
+![Image 1](https://raw.githubusercontent.com/mr-sami-x/admin-ye/main/IMG_20220410_143405_744.jpg)
+![Image 2](https://raw.githubusercontent.com/mr-sami-x/admin-ye/main/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A2%D9%A0%D9%A4%D9%A1%D9%A0-%D9%A1%D9%A4%D9%A4%D9%A7%D9%A2%D9%A0~2.png)
 # installing
 
 1•<code> pkg install python </code>
