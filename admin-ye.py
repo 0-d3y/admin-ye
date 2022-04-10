@@ -31,10 +31,10 @@ def findAdmin():
 
 def Credit():
         Space(9); print " ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂( ☠ )▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂"
-        Space(9); print "┃       +++      Admin Login Web  +++           ┃"
-        Space(9); print "┃                 Script by Mr Sami                 ┃"
-        Space(9); print "┃              Team  The Yemeni Ghst              ┃"
-        Space(9); print "┃                     t.me/Hack_4x                   ┃"
+        Space(9); print "┃   +++    Admin Login Web    +++    ┃"
+        Space(9); print "┃         Script by Mr Sami          ┃"
+        Space(9); print "┃       Team  The Yemeni Ghst        ┃"
+        Space(9); print "┃           t.me/Hack_4x             ┃"
         Space(9); print "┃▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂( ☠ )▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂┃"
 
 Credit()
